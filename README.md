@@ -74,3 +74,10 @@ This shows that higher total tips on Sundays are mainly driven by larger groups,
 ## One-sentence summary
 
 Analyzed restaurant tipping data in Python using pandas, built grouped summaries and a derived “tip per person” metric, and showed that while Sundays generate higher total tips due to larger groups, Fridays have the highest average tip per person.
+
+## Possible next steps
+
+- Analyze tip per person by time (lunch vs dinner).
+- Check the relationship between total bill and tip percentage.
+- Explore whether group size changes tipping behavior beyond simple averages.
+
