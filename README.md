@@ -1,6 +1,9 @@
 
 # Restaurant Tipping Analysis (Python / pandas)
 
+## Project summary
+I analyzed a restaurant tipping dataset in Python. I first validated the data, then explored how tips varied by day and group size. I found that total tips alone were misleading, so I engineered a tip-per-person feature. That showed that while Sundays generate higher total tips due to larger groups, Fridays actually have the highest tip per person. This separated volume effects from individual behavior.
+
 ## Objective
 The goal of this project was to explore restaurant tipping data to understand how tips relate to group size and day of the week, and to distinguish between total tipping behavior and per-person tipping behavior.
 
