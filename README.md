@@ -42,6 +42,9 @@ tip_per_person = tip / size
 
 to separate group effects from individual tipping behavior.
 
+- Created a second derived variable: tip_pct = tip / total_bill
+
+
 ### 5. Structured results
 Built a grouped summary table by day including:
 - average group size  
@@ -58,6 +61,16 @@ Plotted average tip per person by day.
 - Fridays have the highest average tip per person.
 
 This shows that higher total tips on Sundays are mainly driven by larger groups, whereas on Fridays individuals tend to tip more generously per person.
+
+### Additional findings
+
+- Dinner has a higher average tip per person than lunch.  
+- The average tip percentage is about 16% of the total bill.  
+- Friday has the highest average tip percentage.  
+- There is a moderate negative relationship between total bill and tip percentage (correlation ≈ –0.34), meaning larger bills tend to receive a smaller percentage tip on average.
+
+These results suggest that while Sundays drive higher total tips due to larger groups, and Fridays show higher generosity per person and per percentage, customers tend to tip proportionally less as the bill amount increases.
+
 
 ## Tools and skills demonstrated
 
